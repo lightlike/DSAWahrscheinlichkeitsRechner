@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DSACalculator", "DSACalculator\DSACalculator.csproj", "{AFB1F0A8-2D55-4386-8F23-C615D563C01B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFB1F0A8-2D55-4386-8F23-C615D563C01B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFB1F0A8-2D55-4386-8F23-C615D563C01B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFB1F0A8-2D55-4386-8F23-C615D563C01B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFB1F0A8-2D55-4386-8F23-C615D563C01B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8A144CE-D437-4887-8111-EF087ACF438B}
+	EndGlobalSection
+EndGlobal
